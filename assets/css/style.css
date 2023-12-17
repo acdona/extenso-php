@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Open+sans|Source+Code+Pro');
+body {
+   padding: 3%;
+   font-family: "Open Sans";
+}
+
+p {
+   font-family: "Source Code Pro", Serif;
+}
